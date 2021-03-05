@@ -8,6 +8,10 @@
 
 [ROS-Industrial](http://wiki.ros.org/Industrial) Universal Robot meta-package. See the [ROS wiki](http://wiki.ros.org/universal_robot) page for compatibility information and other more information.
 
+# Update:
+
+- Correct the z-axis of the end-effector pointing outward as usual.
+
 
 __Installation__
 
